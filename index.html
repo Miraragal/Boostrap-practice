@@ -30,6 +30,11 @@
                     <h1>NuCamp</h1>
                     <h2>a better way to camp</h2>
                 </div>
+                <!-- #Task 3 -->
+                <div class="col col-md-4 col-xl-2 ">
+                    <a href="#reserveForm" type="button" class="btn btn-info btn-lg mt-4" role="button">Reserve Campsite</a>
+                </div>
+                   <!-- #Task 3 -->
             </div>
     </header>
 
@@ -79,21 +84,28 @@
         <hr />
     </div>
 
-
     <div class="container">
         <br />
         <br />
         <div class="row row-content align-items-center">
             <div class="col-sm-4 col-md-3">
                 <h2>Featured Campsites</h2>
-
             </div>
+            <!--#Task 1-->
             <div class="col">
-                <h3>React Lake Campground</h3>
-                <p class="d-none d-sm-block">Nestled in the foothills of the Chrome Mountains, this campground on the
-                    shores of the pristine
-                    React Lake is a favorite for fly fishers.</p>
+                <div class="media">
+                    <img class="d-flex ml-3 img-thumbnail order-sm-last " src="img/react-lake-thumb.jpg"
+                        alt="React lake thumbnail" />
+                    <div class="media-body align-self-center">
+                        <h3>React Lake Campground</h3>
+                        <p class="d-none d-sm-block">Nestled in the foothills of the Chrome Mountains, this campground
+                            on the shores of the pristine
+                            React Lake is a favorite for fly fishers.</p>
+
+                    </div>
+                </div>
             </div>
+            <!--#Task 1-->
         </div>
         <br />
         <br />
@@ -120,7 +132,49 @@
         </div>
         <br />
         <br />
+        <hr />
     </div>
+    <!--#Task 2 -->
+    <br />
+    <br />
+    <div class="row row-content">
+        <div class="col-sm-6  mx-auto">
+            <div class="card">
+                <h3 class="card-header text-white bg-info">Reserve a Campsite</h3>
+                <div class="card-body">
+                    <div class=" form-group row">
+                        <label for="reserveForm" class="col-sm-6 col-form-label">Number of Campers</label>
+                        <div class="col-sm-6">
+                            <select name="numCampers" class="form-control" id="reserveForm">
+                                <option value="select">Select..</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                                <option value="6">6</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class=" form-group row">
+                        <label for="date" class="col-sm-6 col-form-label">Date</label>
+                        <div class="col-sm-6">
+                            <input name="date" type="date" class="form-control" id="date" placeholder="date" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-2">
+                            <button type="submit" class="btn btn-primary">Search</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <!--#Task 2 -->
 
     <footer class="site-footer">
         <div class="container">
