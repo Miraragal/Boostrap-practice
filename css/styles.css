@@ -42,3 +42,10 @@ row-content{
     margin: 0;
     
 }
+
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: NONE;
+    padding: 10px;
+    
+}
