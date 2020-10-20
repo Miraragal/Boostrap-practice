@@ -21,7 +21,7 @@
 *Pagination,*
 *Typographic,*
 *Jumbotron,*
-*Media object and Wells.
+*Media object and Wells.*
 
 
 
