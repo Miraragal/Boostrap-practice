@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="100" height="110">
-    <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass logo" width="100" height="110">
+    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="100" height="105">
+    <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass logo" width="100" height="105">
 </p>
 
 # Bootstrap CSS-SASS 
