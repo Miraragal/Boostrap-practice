@@ -11,17 +11,17 @@
 
 2. Plenty of useful components
 -*Dropdown menus
-- Navigation Bars
+-*Navigation Bars
 -*Button Groups
-- Labels
+-*Labels
 -*Breadcrumbs
-- Alerts & Progress Bars
+-*Alerts & Progress Bars
 -*Forms 
-- Cards
+-*Cards
 -*Pagination
-- Typographic
+-*Typographic
 -*Jumbotron
-- Media object and Wells
+-*Media object and Wells
 
 
 
