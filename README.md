@@ -3,13 +3,30 @@
     <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass logo" width="200" height="165">
 </p>
 
-# Bootstrap CSS-SASS only
+# Bootstrap CSS-SASS 
 
-A Bower and NPM component for CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery. 
+ Most important features:
 
-- Starting with version 4, package is available on NPM also.
+1. Fully responsive
+
+2. Plenty of useful components
+-*Dropdown menus*
+- *Navigation Bars*
+- *Button Groups
+- *Labels
+- *Breadcrumbs
+- *Alerts & Progress Bars
+- Forms 
+- Cards
+- Pagination
+- Typographic
+- Jumbotron
+- Media object and Wells
+
+
 
 ## Installation:
+Starting with version 4, package is available on NPM also.
 
 #### Bower
 
@@ -17,7 +34,7 @@ A Bower and NPM component for CSS and font libraries only. No javascript, and mo
 $ bower install bootstrap-css-only
 ```
 
-#### NPM (3.3.5+)
+#### NPM 
 
 ```bash
 $ npm install bootstrap-css-only
