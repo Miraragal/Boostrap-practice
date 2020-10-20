@@ -10,17 +10,17 @@
 1. Fully responsive
 
 2. Plenty of useful components
--*Dropdown menus*
-- *Navigation Bars*
-- *Button Groups
-- *Labels
-- *Breadcrumbs
-- *Alerts & Progress Bars
-- Forms 
+-*Dropdown menus
+- Navigation Bars
+-*Button Groups
+- Labels
+-*Breadcrumbs
+- Alerts & Progress Bars
+-*Forms 
 - Cards
-- Pagination
+-*Pagination
 - Typographic
-- Jumbotron
+-*Jumbotron
 - Media object and Wells
 
 
