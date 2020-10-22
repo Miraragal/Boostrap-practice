@@ -2,8 +2,11 @@
 This is a basic html website using bootstrap.
 
 # Technologies 
-<img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="100" height="105">
-<img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="Sass logo" width="100" height="105">
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass)
 
  Most important features:
 
@@ -31,13 +34,13 @@ Starting with version 4, package is available on NPM also.
 #### Bower
 
 ```bash
-$ bower install bootstrap-css-only
+$ bower install bootstrap-css
 ```
 
 #### NPM 
 
 ```bash
-$ npm install bootstrap-css-only
+$ npm install bootstrap-css
 ```
 
 
